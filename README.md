@@ -6,7 +6,7 @@ If you still doesn't know what this script does then here's the explanation: I w
 
 With MkvMerge, this script is able to cut out the original intro part and replace it with dubbed one. You'll achieve to have dubbed intro + original lang rest of episodes.
 
-##Folder structure
+## Folder structure
 ```
 \temp
   \mka output\
