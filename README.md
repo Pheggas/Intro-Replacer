@@ -6,6 +6,10 @@ If you still doesn't know what this script does then here's the explanation: I w
 
 With MkvMerge, this script is able to cut out the original intro part and replace it with dubbed one. You'll achieve to have dubbed intro + original lang rest of episodes.
 
+### Known issues
+- Filename with special characters. Special characters are always pain to deal with in Windows Batch...
+- Script is not well written with variable file and function file. This might or might not change. Depends on my interest in this script.
+
 ## Folder structure
 ```
 \temp
@@ -27,5 +31,5 @@ With MkvMerge, this script is able to cut out the original intro part and replac
 5. Edit sections that you're supposed to edit by the legend.
 
 ## Conclusion
-As i never tried to make batch scripts before, this script took me around 12 hours with fixing issues, bugs, errors and learning a ton of new stuff.
+As i never tried to make batch scripts before, this script took me around 6 hours with fixing issues, bugs, errors and learning a ton of new stuff.
 This repo is pretty much upload-and-forget so don't expect active maintanance and enhancements to come.
