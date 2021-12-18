@@ -19,13 +19,13 @@ With MkvMerge, this script is able to cut out the original intro part and replac
     \[finished and merged].mkv
 ```
 
-##Steps to get it working
+## Steps to get it working
 1. Create folder structure like mentioned above (only folders, not files) 
 2. Download Intro Replacer.bat
 3. Put it into MkvTooNix folder (or somewhere where's the MkvToolNix is installed)
 4. Open it via text editor
 5. Edit sections that you're supposed to edit by the legend.
 
-##Conclusion
+## Conclusion
 As i never tried to make batch scripts before, this script took me around 12 hours with fixing issues, bugs, errors and learning a ton of new stuff.
 This repo is pretty much upload-and-forget so don't expect active maintanance and enhancements to come.
